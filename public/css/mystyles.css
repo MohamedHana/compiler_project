@@ -1,0 +1,9 @@
+.nav-tabs > li .close {    
+    font-size: 15px;
+    margin: -6px -10px 0 8px;
+}
+
+
+textarea {
+    resize: vertical;
+}
